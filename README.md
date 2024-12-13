@@ -52,7 +52,7 @@ pip install -r requirements.txt  # For Python
 ### Configure environment variables:
 Create a `.env` file in the root directory and set the following variables:
 ```env
-DATABASE_URL=your_database_url
+MONGO_URI=mongodb+srv://iamashish761:ashish761@cluster0.55exu.mongodb.net/ims_db
 JWT_SECRET=your_secret_key
 ```
 
