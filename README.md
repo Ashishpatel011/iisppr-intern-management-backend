@@ -38,7 +38,7 @@ This repository contains the backend services for the Intern Management System. 
 
 ### Clone the repository:
 ```bash
-git clone <repository-url>  
+git clone https://github.com/Ashishpatel011/iisppr-intern-management-backend.git
 cd intern-management-backend
 ```
 
